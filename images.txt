@@ -6,3 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/typ431127/open-webui:v0.3.8
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/ollama/ollama:0.3.0
+ollama/ollama
+open-webui
