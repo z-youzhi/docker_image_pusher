@@ -1,2 +1,1 @@
-
-kasmweb/vlc
+ghcr.io/open-webui/open-webui:main
